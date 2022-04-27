@@ -1,0 +1,11 @@
+canvas{
+    border: 3px solid #000;
+    width: 1440px;
+    height: 690px;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-color: seagreen;
+}
